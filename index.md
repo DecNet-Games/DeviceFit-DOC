@@ -17,6 +17,9 @@ Stop guessing which quality settings your game can afford.
 
 ---
 
+![DeviceFit Cover Banner]({{ site.baseurl }}/assets/images/01_Cover_1950x1300.png)
+{: .mb-6 }
+
 ## Pain vs. Solution: The Real Cost of Guessing Quality
 
 Most optimization workflows in Unity follow a broken loop: open quality settings, toggle a shadow cascade or lower render scale, glance at the Editor stats panel, and hope frame rates improve. When player builds stutter on target hardware, the team scrambles to guess which change caused the regression.

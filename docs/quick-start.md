@@ -26,6 +26,9 @@ To ensure reproducible measurements, your test scene should meet three condition
 
 Measurements require an automated camera route so every candidate is tested against identical geometry and lighting:
 
+![Route Authoring Interface]({{ site.baseurl }}/assets/images/06_Route_2400x1600.png)
+{: .mb-4 }
+
 1. Open **Tools > Decnet > DeviceFit > Create Route**.
 2. Click **Create New Route Asset** and save it as `Assets/Benchmarking/Combat_Route.asset`.
 3. In the Route Authoring Window:

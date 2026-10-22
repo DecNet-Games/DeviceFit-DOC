@@ -30,6 +30,9 @@ When authoring a camera route, you can mark specific waypoints as `isVisualCheck
 
 ## Side-by-Side & Difference Heatmaps
 
+![Visual Comparison Checkpoints]({{ site.baseurl }}/assets/images/09_Checkpoints_2400x1600.png)
+{: .mb-4 }
+
 In the **Captures & Comparisons** window (**Tools > Decnet > DeviceFit > Captures & Comparisons**), you can inspect:
 
 1. **Split-Screen Wipe**: An interactive slider allowing you to wipe between the Baseline frame and Candidate frame.

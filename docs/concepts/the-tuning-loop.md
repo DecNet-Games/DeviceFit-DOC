@@ -11,6 +11,9 @@ permalink: /docs/concepts/the-tuning-loop/
 
 DeviceFit is fundamentally an **experiment workflow**, not a static scanner or magic optimizer. 
 
+![DeviceFit 8-Stage Tuning Workflow]({{ site.baseurl }}/assets/images/04_Workflow_2400x1600.png)
+{: .mb-4 }
+
 Many tools claim to "auto-optimize" a Unity project by scanning assets for uncompressed textures or high-poly meshes and making blanket suggestions. In practice, static recommendations fail because they ignore the runtime state: a 4K texture on a distant prop might cost negligible frame time, while a simple 2-cascade shadow setup on dynamic foliage could be choking the GPU.
 
 ```

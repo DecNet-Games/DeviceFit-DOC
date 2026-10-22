@@ -59,18 +59,8 @@ To experience the complete loop without modifying your existing scenes, run the 
 ### Step 1: Open the Experiment Desk
 Navigate to **Tools > Decnet > DeviceFit > Experiment Desk**.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ DeviceFit Experiment Desk                                [-][x] │
-├─────────────────────────────────────────────────────────────────┤
-│ Active Scene: Lab_Courtyard_GPUShadows                          │
-│ Active Route: Courtyard_Tour_Route                              │
-│ Execution Mode: In-Editor Emulation [▼]                         │
-│                                                                 │
-│ [ 1. Capture Baseline ]  [ 2. Review Evidence ]  [ 3. Plan ]   │
-│ [ 4. Run Trials ]        [ 5. Compare Visuals ]  [ 6. Apply ]  │
-└─────────────────────────────────────────────────────────────────┘
-```
+![DeviceFit Experiment Desk Overview]({{ site.baseurl }}/assets/images/03_Experiment_Desk_2400x1600.png)
+{: .mb-4 }
 
 ### Step 2: Launch the Ready-Made Lab Scene
 Click **Run Sample Lab** or open `Assets/Decnet/DeviceFit/Samples/Lab_Courtyard_GPUShadows.unity`. This scene contains high-density geometry and real-time shadow cascades designed to stress URP rendering.
