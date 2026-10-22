@@ -13,7 +13,7 @@ Stop guessing which quality settings your game can afford.
 {: .fs-6 .text-grey-dk-000 }
 
 [Get Started Now]({{ site.baseurl }}/docs/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on Unity Asset Store](https://assetstore.unity.com/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View on Unity Asset Store](https://assetstore.unity.com/packages/slug/421038){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

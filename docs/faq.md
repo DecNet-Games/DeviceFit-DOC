@@ -12,7 +12,7 @@ permalink: /docs/faq/
 ---
 
 ### Is DeviceFit available for free on GitHub?
-**No.** DeviceFit is a premium commercial asset available exclusively on the **Unity Asset Store**. This documentation site provides reference guides and tutorials for licensed users.
+**No.** DeviceFit is a premium commercial asset available exclusively on the [Unity Asset Store](https://assetstore.unity.com/packages/slug/421038) (short link: [u3d.as/4g1m](https://u3d.as/4g1m)). This documentation site provides reference guides and tutorials for licensed users.
 
 ---
 

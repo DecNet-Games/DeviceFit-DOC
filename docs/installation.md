@@ -35,7 +35,7 @@ Before importing DeviceFit into your project, ensure your environment meets the 
 
 ## Step 1: Purchasing & Adding to My Assets
 
-1. Visit the [Unity Asset Store](https://assetstore.unity.com/) and search for **DeviceFit — Measured Performance Tuning Lab**.
+1. Visit the official Asset Store page for [DeviceFit on the Unity Asset Store](https://assetstore.unity.com/packages/slug/421038) (short link: [u3d.as/4g1m](https://u3d.as/4g1m)).
 2. Complete your purchase under your Unity ID organization.
 3. Click **Add to My Assets** to link the license to your Unity account.
 
